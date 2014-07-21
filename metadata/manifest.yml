@@ -10,6 +10,7 @@ Cartridge-Vendor: customcarts
 Source-Url: https://github.com/tresbailey/phantomjs-cartridge.git
 Categories:
   - service
+  - web_framework
 Provides:
   - phantomjs
 Cart-Data:
